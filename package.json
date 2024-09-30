@@ -26,7 +26,7 @@
         "kind-of": ">=6.0.3"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.9.0",
+        "@fortawesome/fontawesome-free": "^5.15.4",
         "admin-lte": "^3.0.0-beta.1",
         "emoji-toolkit": "^5.0.3",
         "emojionearea": "^3.0.0",
